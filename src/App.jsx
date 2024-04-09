@@ -1,11 +1,6 @@
-import "./App.scss";
-import Form from "./components/form/form.jsx";
+import "./App.css";
 function App() {
-  return (
-    <>
-      <Form />
-    </>
-  );
+  return <></>;
 }
 
 export default App;
